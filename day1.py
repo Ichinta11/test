@@ -30,5 +30,4 @@ def only_even(numbers):
 my_list = [10, 21, 32, 43, 54]
 print("Original list:", my_list)
 print("Even numbers:", only_even(my_list))
-cd path/to/python-data
-git init
+

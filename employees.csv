@@ -1,0 +1,7 @@
+emp_id,name,dept_id,salary
+1,Alice,10,90000
+2,Bob,20,80000
+3,Charlie,10,120000
+4,Diana,30,70000
+5,Elena,,65000
+

@@ -1,0 +1,8 @@
+order_id,order_date,customer,amount,currency
+1001,2024-01-05,Alice,120,USD
+1002,2024/01/07,Bob, ,USD
+1003,05-01-2024,Charlie,300,usd
+1004,,Alice,250,USD
+1004,,Alice,250,USD
+1005,2024-02-01,Elena,99,EUR
+
